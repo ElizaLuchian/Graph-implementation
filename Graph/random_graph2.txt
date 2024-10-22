@@ -1,0 +1,1 @@
+Error generating random graph 2: Number of edges exceeds the maximum possible for the given number of vertices
